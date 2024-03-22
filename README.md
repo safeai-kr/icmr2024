@@ -45,7 +45,7 @@ python task2.py --path /your_dataset_path/
 ```
 ## Overall Process
 
-<img src="/src/overall.png" />
+<img src="/src/overall.jpg" />
 
 ## Performance
 ### Task 1 
